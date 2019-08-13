@@ -5,10 +5,10 @@
 
 # In[1]:
 
-def SayHello(Name):
+def SayHello(Name): #defines a function named SayHello with one input
    print("Hello ", Name)
    return
-def SayGoodbye(Name):
+def SayGoodbye(Name): #defines a function named SayGoodbye with one input
    print("Goodbye ", Name)
    return
 
